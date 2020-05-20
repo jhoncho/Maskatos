@@ -1,0 +1,2 @@
+rootProject.name='Maskatos'
+include ':app'

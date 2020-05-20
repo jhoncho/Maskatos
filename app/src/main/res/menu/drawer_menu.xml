@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="General">
+
+        <menu>
+            <item
+                android:id="@+id/menu"
+                android:icon="@drawable/ic_home"
+                android:title="Inicio" />
+            <item
+                android:id="@+id/Mi_Perfil"
+                android:icon="@drawable/ic_perfil"
+                android:title="Mi Perfil" />
+            <item
+                android:id="@+id/Mapa_Servicio"
+                android:icon="@drawable/ic_veterinarios"
+                android:title="Busca un Servicio" />
+            <item
+                android:id="@+id/Mi_mascota"
+                android:icon="@drawable/ic_adopta"
+                android:title="Mis Mascota" />
+            <item
+                android:id="@+id/mascota_perdida"
+                android:icon="@drawable/perro"
+                android:title="Mascota Perdida" />
+            <item
+                android:id="@+id/mascota_encontrada"
+                android:icon="@drawable/mascota"
+                android:title="Mascota Encontrada" />
+
+        </menu>
+    </item>
+</menu>
